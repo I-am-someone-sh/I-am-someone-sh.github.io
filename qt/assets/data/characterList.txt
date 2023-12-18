@@ -1,0 +1,7 @@
+robot_classic
+qt_classic
+qt
+qt_annoyed
+robot
+qt-kb
+qt-meme

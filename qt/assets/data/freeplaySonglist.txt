@@ -1,0 +1,5 @@
+Carefree:qt:1
+Careless:qt:1
+Censory-Overload:robot:1
+Termination:robot:1
+Cessation:qt-kb:1
